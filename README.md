@@ -7,5 +7,5 @@ Data gathered from: https://data.wprdc.org/dataset/healthyride-trip-data
 
 
 # For this project, you will need to download:
-1) Python 3.7
-  ~ https://www.python.org/downloads/
+1) Python 3.7 ~ https://www.python.org/downloads/
+2) Jupyter Notebook ~ 
