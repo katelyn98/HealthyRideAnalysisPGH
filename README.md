@@ -5,10 +5,9 @@ Fun project started at PyOhio 2019 sprints
 1) Python 3.7 ~ https://www.python.org/downloads/
 2) Github Desktop (helpful if you have it) ~ https://desktop.github.com/
 3) Jupyter Notebook
-_How to use Jupyter Notebook_
-1. ```pipenv install``` on the repository
 
-## Python Instructions
+## _How to use Jupyter Notebook_
+# Python Instructions
 ```bash
 pip install pipenv --user
 pipenv install
