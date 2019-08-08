@@ -6,6 +6,7 @@ Learning data science and python libraries (e.g. Pandas)
 # Steps Necessary for Project
 1) Python 3.7 ~ https://www.python.org/downloads/
 2) Github Desktop (helpful if you have it) ~ https://desktop.github.com/
+3) HealthyRide Data ~ https://data.wprdc.org/dataset/healthyride-trip-data
 3) Jupyter Notebook
 
 ## _How to use Jupyter Notebook_
