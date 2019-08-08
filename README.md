@@ -1,7 +1,7 @@
 # Healthy Ride Bike Trip Analysis
 Fun project started at PyOhio 2019 sprints
 
-# Steps Necessary for project
+# Steps Necessary for Project
 1) Python 3.7 ~ https://www.python.org/downloads/
 2) Github Desktop (helpful if you have it) ~ https://desktop.github.com/
 3) Jupyter Notebook
