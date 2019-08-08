@@ -7,7 +7,8 @@ Fun project started at PyOhio 2019 sprints
 3) Jupyter Notebook
 
 ## _How to use Jupyter Notebook_
-# Python Instructions
+_Use the following python instructions to open Jupyter Notebook envrionment_
+[NOTE: do these commands in the project repository]
 ```bash
 pip install pipenv --user
 pipenv install
