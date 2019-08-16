@@ -1,4 +1,8 @@
 .idea/
 .ipynb_checkpoints/
-data/
+data/*.csv
+data/*.xlsx
 
+output/
+
+__pycache__/
