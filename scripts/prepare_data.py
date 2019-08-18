@@ -1,10 +1,12 @@
+#pipenv run python3 scripts/prepare_data
+#This file is an Alex version of Preparation.ipynb
+
 from pathlib import Path
-
 import pandas as pd
-
 
 data_dir = Path('.') / 'data'
 output_dir = Path('.') / 'output'
+
 
 if not (data_dir.exists() or data_dir.is_dir()):
     exit(-1)
@@ -33,6 +35,6 @@ for file in data_files:
     dataframes.append(df)
     df.to_csv(str(output_dir / file.name), index=False)
 
-
+    
 df = pd.concat(dataframes)
 df.to_csv(str(output_dir / 'final.csv'), index=False)
